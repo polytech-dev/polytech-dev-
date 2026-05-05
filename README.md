@@ -10,9 +10,8 @@
 
  ## 📂 Structure du projet 
 
-  
-  ````
 
+```
   📁 portfolio/
 ├── 📄 README.md (le contenu ci-dessus)
 ├── 📁 devops/
