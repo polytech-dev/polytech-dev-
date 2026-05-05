@@ -8,6 +8,23 @@
 
   ---
 
+ ## 📂 Structure du projet 
+
+  
+  ````
+
+  📁 portfolio/
+├── 📄 README.md (le contenu ci-dessus)
+├── 📁 devops/
+├── 📁 data-science/
+├── 📁 deep-learning/
+├── 📁 full-stack/
+├── 📁 mobile/
+└── 📄 .gitignore
+```
+
+---
+
   ##  Domaines d'Expertise
 
   ###  DevOps & Ingénierie Logiciel
