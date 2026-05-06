@@ -2,7 +2,7 @@
 
 # Merphy - Mademba
 
-  #  Ingénieur Logiciel généraliste Polyvalent
+  #   Ingénieur Logiciel généraliste Polyvalent
 
   Bienvenue sur mon profil ! Je suis un ingénieur logiciel passionné par l'innovation technologique, avec expertise dans plusieurs domaines clés.
 
